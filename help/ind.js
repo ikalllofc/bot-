@@ -182,7 +182,7 @@ exports.menu = (prefix, ucap, pushname2, jumlahUser, timebot, owner, jumlahHaria
 │❒͡ *Time: ${time}*
 │❒͡ *STATUS* :「 ${public} 」
 │
-╰── 「 *CHIKA BOT* 」 ──
+╰── 「 *IKAL BOT* 」 ──
 
 ❉──────────────────❉  
 *Name* : *${pushname2}* 
@@ -207,7 +207,7 @@ exports.menu = (prefix, ucap, pushname2, jumlahUser, timebot, owner, jumlahHaria
 
  𒍮 *Total Hit Today : ${jumlahHarian}*
 
-*── 「 CHIKA BOT 」 ──*
+*── 「 IKAL BOT 」 ──*
 
 
 *Official BOT By @0*`
@@ -346,7 +346,7 @@ exports.menuPrice = (owner, pushname) => {
 *Pembayaran Bisa Melalui Metode Pembayaran di Bawah:*
 *OVO/Dana/Gopay = ${owner}*
 *QRis yang dilampirkan*
-*PAYPAL = rashidsiregar28@gmail.com*
+*PAYPAL = -*
 
 *_note_*:
 *Jika kalian ingin menjadi owner bot,bisa chat owner untuk price nya :D*
